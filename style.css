@@ -1,0 +1,31 @@
+body{
+	color: blueviolet;
+	background:lightblue url(../gambar/pempek.png) repeat top center;
+	font-size: 30px;
+
+}
+
+p{
+	color: red;
+}
+
+h2{
+	color: blue;
+}
+
+h5{
+	font-family: arial;
+	color: black;
+}
+
+hr{
+	color: red;
+}
+
+ul{
+	color: blue;
+}
+
+h3{
+	color: darkred;
+}
